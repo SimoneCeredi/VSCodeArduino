@@ -1,0 +1,8 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "AVRISP mkII",
+    "sketch": "seiot2021\\arduino\\modulo-lab-1.3\\sensor_test_sonar\\sensor_test_sonar.ino",
+    "port": "COM3",
+    "output": "../build",
+    "debugger": "jlink"
+}
